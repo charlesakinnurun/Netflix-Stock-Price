@@ -1,5 +1,5 @@
 # Introduction
-![Netflix](assets/netflix.webp)
+![Netflix](assets/netflix.jpg)
 This dataset, named Netflix_stock_data_cleaned.csv, contains daily stock information for Netflix (NFLX) from May 2002 to June 2025. It includes key financial metrics and calculated indicators that are essential for stock market analysis.
 ***
 🔍 SQL queries? Check them out [here](/queries/):
