@@ -1,0 +1,1 @@
+CREATE SCHEMA `netflix_stock_data`
