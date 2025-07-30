@@ -40,6 +40,10 @@ For my deep dive into the digital advertising strategies, I harnessed the power 
 - **Visual Studio Code:** My go-to for database management and executing SQL queries.
 - **Git & GitHub:** Essential for version control and sharing my SQL scripts and analysis, ensuring collaboration and project tracking.
 - **Numpy:** Essential for numerical and scientific computing. It's especially important in data analysis,data science and machine Learning.
+# Database Creation
+```sql
+CREATE SCHEMA `netflix_stock_data`
+```
 # The Cleaning
 ```python
 import pandas as pd
