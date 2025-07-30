@@ -42,7 +42,7 @@ For my deep dive into the digital advertising strategies, I harnessed the power 
 - **Numpy:** Essential for numerical and scientific computing. It's especially important in data analysis,data science and machine Learning.
 # Database Creation
 ```sql
-CREATE SCHEMA `netflix_stock_data`
+CREATE SCHEMA `netflix_stock_data` ;
 ```
 # Table Creation
 ```sql
