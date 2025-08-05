@@ -1,7 +1,7 @@
 # Introduction
 ![Netflix](assets/netflix.jpg)
-This dataset, named Netflix_stock_data_cleaned.csv, contains daily stock information for Netflix (NFLX) from May 2002 to June 2025. It includes key financial metrics and calculated indicators that are essential for stock market analysis.
 ***
+This dataset, named Netflix_stock_data_cleaned.csv, contains daily stock information for Netflix (NFLX) from May 2002 to June 2025. It includes key financial metrics and calculated indicators that are essential for stock market analysis.
 🔍 SQL queries? Check them out [here](/queries/):
 # Background
 Driven by a quest to understand and analyze the historical performance of Netflix stock. Leveraging comprehensive Netflix stock data, the aim is to pinpoint key metrics impacting its stock price, identify trends, and uncover actionable insights into its market behavior. This analysis focuses on daily stock prices, trading volume, and calculated indicators such as daily returns and moving averages, to maximize understanding of Netflix's stock dynamics.
