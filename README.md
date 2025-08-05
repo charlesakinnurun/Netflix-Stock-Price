@@ -254,7 +254,7 @@ if __name__ == "__main__":
     main() 
 ```
 # The Analysis
-### Were there more gains (Close > Open) or losses (Close < Open) over the dataset?
+#### Were there more gains (Close > Open) or losses (Close < Open) over the dataset?
 ```python
 import pandas as pd
 
@@ -277,7 +277,7 @@ elif losses > gains:
 else:
     print("The number of gains and losses were equal over the dataset.")
 ```
-### What is the standard deviation of the closing price?
+#### What is the standard deviation of the closing price?
 ```python
 import pandas as pd
 
@@ -289,7 +289,7 @@ std_close = df['Close'].std()
 
 print(f"Standard deviation of the closing price: {std_close:.2f}")
 ```
-### What is the correlation between volume and price change?
+#### What is the correlation between volume and price change?
 ```python
 import pandas as pd
 
